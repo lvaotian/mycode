@@ -2,4 +2,5 @@
 using namespace std;
 int main(){
     printf("hello world\n");
+    cout<<"fuck you"<<endl;
 }
